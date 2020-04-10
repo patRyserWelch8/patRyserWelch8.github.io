@@ -1,5 +1,4 @@
-github:
-  is_project_page: false
+github: is_project_page: false
 theme: jekyll-theme-minimal
 title: Pat Ryser-Welch
 logo: /assets/images/logo.png
